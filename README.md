@@ -1,9 +1,3 @@
-
-Model
-好的，明白了。您需要的是一份可以直接复制粘贴到GitHub，并且能正确显示标题、列表、代码块等格式的Markdown文档。
-我将为您重新格式化，确保所有元素都符合Markdown语法规范。
-code
-Markdown
 # LMArena Bridge - 自动化解决方案
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
