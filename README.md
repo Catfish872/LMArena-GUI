@@ -1,4 +1,4 @@
-# LMArena Bridge - 自动化解决方案
+# 【已弃用：该项目目前已经失效】LMArena Bridge - 自动化解决方案
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
